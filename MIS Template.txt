@@ -1,25 +1,38 @@
 MIS
 
++ Definition of Terms
+	*Management
+		Refers to basic CRUD operations, plus history tracking, access control
+
++ Areas
 Internal
-	People (Executives/Employees)
+	Units
+		Division and Role Management
+	Human Resources (Executives/Employees/Third-Parties)
 		Database Management
+			Recruitment
 			Basic Info
 			Employment Info
 			Penalties/Awards (Merit/Demerit)
 		Performance Appraisal
 			Standards Management
 			Employee Performance Analysis
-			People Rating
+			People Rating and Tracking
 		Attendance
 			DTR
 				Undertime/Overtime
 			Leaves
+			Tardiness
 		Compensation
 			Payroll
 				Basic Salary
 				Bonuses
 				Benefits
 				Deductions
+		Executives
+			Approval
+				Delegation
+			Reports		
 	Finance
 		Budget Management
 	Assets
@@ -29,14 +42,26 @@ Internal
 			History
 		Ownership Tracking
 		Procurement/Delivery/Disposal
-			
-	Executives
-		Approval
-			Delegation
+	Support/Information Center
 		Reports
-			
+		Information Channels (Internal/External)
+		Help/Support Utilities	
 	
 Interfaces
-
+	Legal
+		Database Management
+			Policies
+			Historical Data
+	Customer Support
+	Partnership Channels
+		External APIs
+		Contact Channel Management
+	
 Stores
+	Product Management
+		Research and Feasibility
+		Procurement/Manufacturing
+		Quality Control
+		Marketing and Strategy
+		Delivery Control
 
