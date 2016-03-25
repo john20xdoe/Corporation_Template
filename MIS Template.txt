@@ -46,22 +46,23 @@ Internal
 		Reports
 		Information Channels (Internal/External)
 		Help/Support Utilities	
-	
-Interfaces
-	Legal
-		Database Management
-			Policies
-			Historical Data
-	Customer Support
-	Partnership Channels
-		External APIs
-		Contact Channel Management
-	
-Stores
 	Product Management
 		Research and Feasibility
 		Procurement/Manufacturing
 		Quality Control
 		Marketing and Strategy
-		Delivery Control
+		Delivery and Distribution
+		
+Interfaces
+	Legal
+		Database Management
+			Policies
+			Historical Data
+			...
+	Customer Support
+	Partnership Channels
+		External APIs
+		Contact Channel Management
+	
+
 
