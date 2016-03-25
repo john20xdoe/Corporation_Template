@@ -1,0 +1,42 @@
+MIS
+
+Internal
+	People (Executives/Employees)
+		Database Management
+			Basic Info
+			Employment Info
+			Penalties/Awards (Merit/Demerit)
+		Performance Appraisal
+			Standards Management
+			Employee Performance Analysis
+			People Rating
+		Attendance
+			DTR
+				Undertime/Overtime
+			Leaves
+		Compensation
+			Payroll
+				Basic Salary
+				Bonuses
+				Benefits
+				Deductions
+	Finance
+		Budget Management
+	Assets
+		Database Management
+			Classification
+			Valuation
+			History
+		Ownership Tracking
+		Procurement/Delivery/Disposal
+			
+	Executives
+		Approval
+			Delegation
+		Reports
+			
+	
+Interfaces
+
+Stores
+
