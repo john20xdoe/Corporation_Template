@@ -5,7 +5,16 @@ MIS
 		Refers to basic CRUD operations, plus history tracking, access control
 
 + Areas
-Internal
+Core Modules
+	CRUD
+	Authentication
+
+Stores
+	Daily Transaction
+	Data Warehouse
+	
+	
+Internal Subsystems
 	Units
 		Division and Role Management
 	Human Resources (Executives/Employees/Third-Parties)
@@ -19,10 +28,13 @@ Internal
 			Employee Performance Analysis
 			People Rating and Tracking
 		Attendance
-			DTR
+			Time Management
+				DTR
+				Work Schedule
 				Undertime/Overtime
-			Leaves
-			Tardiness
+				Time Tracking
+				Leaves
+				Tardiness
 		Compensation
 			Payroll
 				Basic Salary
@@ -63,6 +75,7 @@ Interfaces
 	Partnership Channels
 		External APIs
 		Contact Channel Management
-	
-
+	Banks
+		Payroll Posting
+		Batch Payments
 
