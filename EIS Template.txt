@@ -3,16 +3,21 @@ MIS
 + Definition of Terms
 	*Management
 		Refers to basic CRUD operations, plus history tracking, access control
-
+	*??
 + Areas
 Core Modules
 	CRUD
 	Authentication
+	Loggers
+	Cross-border interfaces/channels
+	Encryption/Decryption
+	Backup/Retrieval/Continuity 
 
 Stores
+	Common Modules/Libraries
+		Versioning
 	Daily Transaction
-	Data Warehouse
-	
+	Historical Data Warehouse
 	
 Internal Subsystems
 	Units
@@ -24,7 +29,7 @@ Internal Subsystems
 			Employment Info
 			Penalties/Awards (Merit/Demerit)
 		Performance Appraisal
-			Standards Management
+			Standards Management/Enforcement
 			Employee Performance Analysis
 			People Rating and Tracking
 		Attendance
@@ -45,8 +50,9 @@ Internal Subsystems
 			Approval
 				Delegation
 			Reports		
-	Finance
+	Finance and Accounting
 		Budget Management
+		??
 	Assets
 		Database Management
 			Classification
@@ -57,25 +63,31 @@ Internal Subsystems
 	Support/Information Center
 		Reports
 		Information Channels (Internal/External)
-		Help/Support Utilities	
+		Help/Support Utilities
+		Support Engineering
 	Product Management
 		Research and Feasibility
+		Merchandise Engineering
 		Procurement/Manufacturing
-		Quality Control
+			Internal Assets/Expenses
+			Product Component Supplies
+		Quality Control and Assurance
 		Marketing and Strategy
 		Delivery and Distribution
 		
 Interfaces
-	Legal
+	Product Marketplace
+	Government/Legal
 		Database Management
 			Policies
 			Historical Data
-			...
+			??
 	Customer Support
 	Partnership Channels
 		External APIs
 		Contact Channel Management
-	Banks
+		Suppliers
+	Financial Institutions
 		Payroll Posting
 		Batch Payments
 
